@@ -13,6 +13,10 @@ The score is a neat way to promote the principles of good engagement maps -- in 
 
 ## Possible scoring criteria
 
+Imagine each of these is worth 1 point. 
+
+Not every map will be able to score 100% -- there might be desirable characteristics for a map that aren't possible given the data/other issues. (Perhaps?)
+
 ### How open is the map data?
 
 * underlying data is accessible for download
