@@ -39,8 +39,9 @@ Not every map will be able to score 100% -- there might be desirable characteris
 
 ### Good online maps
 [Mapping Best Practices](https://docs.google.com/a/openplans.org/presentation/d/1CA9R42cy4wjzIIWlyd0FMWvyW7BqsrzOGLQBgkwsy1Q/edit#slide=id.gafca7129_735) - slides from a presentation at NICAR by Dave Cole, John Keefe, Matt Stiles
+
 [When Maps Shouldn’t Be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/) - blog post by Matthew Ericson
-[]
+
 
 ### Open data best practices
 ... examples of best practices for open map data?
