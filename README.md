@@ -34,6 +34,11 @@ Not every map will be able to score 100% -- there might be desirable characteris
 * available at different geographic roundups (e.g. district)
 * available as the original dots (e.g. geocoded location of 311 reports)
 
+### Accessibility
+
+* available in all (?) significant local language groups
+* fall-back for screen readers (?)
+* works in all modern browsers without a plugin (e.g. silverlight)
 
 ## Best practices
 
