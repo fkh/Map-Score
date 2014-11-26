@@ -1,7 +1,9 @@
 Map-Score
 =========
 
-Collaboratively assessing government interactive maps
+Collaboratively assessing interactive maps from government.
+
+__Want to help? Make suggestions and edits to the scoring criteria, via a pull request or issue.__ Thanks!
 
 #### Proposal
 
